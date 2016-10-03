@@ -2,5 +2,5 @@ package tpGit;
 
 public class Main {
 
-		//CestLaMortQuiTasAssassineeMacias
+		//Encore une bonne journée
 }
